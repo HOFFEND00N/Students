@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Tournament
+﻿namespace Tournament
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var tournament = new TournamentController();
+            bool isDoubleElimination = Messenger.ReadDoubleEliminationFlag();
+            int numberOfPlayers = Messenger.ReadNumberOfPlayers();
+            string[] playerNames = Messenger.ReadNames(numberOfPlayers);
+            var tournament = new TournamentController(numberOfPlayers, playerNames, isDoubleElimination);
             Messenger.Play(tournament);
         }
     }
