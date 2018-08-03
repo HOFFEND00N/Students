@@ -152,6 +152,7 @@ ClientBin/
 *.[Pp]ublish.xml
 *.pfx
 *.publishsettings
+.vs/
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -244,3 +245,4 @@ CandidatesAccounting/tests/__screenshots__/
 ScreenshotHandler/.idea/
 ScreenshotHandler/node_modules/
 /.vs
+ScreenshotHandlerUtility/node_modules/
