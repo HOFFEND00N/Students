@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\obj\Debug\MySetLibTests.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\obj\Debug\MySetLibTests.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\MySetLibTests.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\MySetLibTests.pdb
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\MySetLib.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\MySetLib.pdb
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\obj\Debug\MySetLibTests.csproj.CopyComplete
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\obj\Debug\MySetLibTests.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLibTests\obj\Debug\MySetLibTests.pdb

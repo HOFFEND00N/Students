@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\obj\Debug\netstandard2.0\MySetLib.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\obj\Debug\netstandard2.0\MySetLib.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\obj\Debug\netstandard2.0\MySetLib.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\obj\Debug\netstandard2.0\MySetLib.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\bin\Debug\netstandard2.0\MySetLib.deps.json
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\bin\Debug\netstandard2.0\MySetLib.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\bin\Debug\netstandard2.0\MySetLib.pdb
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\obj\Debug\netstandard2.0\MySetLib.dll
+C:\Users\Ivan\source\repos\MySetLib\MySetLib\obj\Debug\netstandard2.0\MySetLib.pdb
